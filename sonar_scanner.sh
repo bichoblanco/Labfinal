@@ -11,3 +11,4 @@ sonar-scanner \
   -Dsonar.sources=. \
   -Dsonar.host.url=https://sq.semanticsecurity.org \
   -Dsonar.login=$SONARQUBE_LOGIN
+  echo Done!
